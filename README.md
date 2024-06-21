@@ -6,10 +6,10 @@ Hi, I'm a young student at Lobachevsky University with a passion for software de
 
 ## About Me 💪
 
-- **University:**Lobachevsky University 👨‍🎓
+- University: Lobachevsky University 👨‍🎓
 - **Sphere of study:** Computer Science
 - **Programming language:** C++
-- ** Interests:** Development of utilities, applications and optimisations for Windows.
+- Interests: Development of utilities, applications and optimisations for Windows.
 
 ## Projects
 
